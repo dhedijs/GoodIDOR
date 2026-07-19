@@ -1,1 +1,12 @@
-
+# Test object identifiers.
+# Keep this small first; add more after confirming the target is your own/lab.
+0
+1
+2
+3
+10
+11
+100
+101
+1000
+1001
