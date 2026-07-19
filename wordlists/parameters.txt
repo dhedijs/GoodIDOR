@@ -1,0 +1,17 @@
+# Parameter names treated as object identifiers.
+id
+user_id
+userid
+uid
+profile_id
+account_id
+order_id
+invoice_id
+customer_id
+member_id
+admin_id
+owner_id
+document_id
+file_id
+record_id
+ref_id

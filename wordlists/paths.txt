@@ -1,0 +1,23 @@
+# Custom endpoint patterns for GoodIDOR.
+# Use {id} where the scanner should inject test IDs.
+# Lines starting with # are ignored.
+/profile/{id}
+/profiles/{id}
+/user/{id}
+/users/{id}
+/account/{id}
+/accounts/{id}
+/order/{id}
+/orders/{id}
+/invoice/{id}
+/invoices/{id}
+/customer/{id}
+/customers/{id}
+/member/{id}
+/members/{id}
+/admin/user/{id}
+/api/user/{id}
+/api/users/{id}
+/api/profile/{id}
+/api/account/{id}
+/api/orders/{id}
